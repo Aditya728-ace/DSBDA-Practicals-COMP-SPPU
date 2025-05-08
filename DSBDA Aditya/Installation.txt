@@ -1,0 +1,18 @@
+pip packages
+
+pip install pandas numpy pytest-warnings matplotlib seaborn -U scikit-learn nltk
+
+
+1. Make sure Python is installed
+python --version
+
+
+2. : Install pip (if not already installed)
+python -m ensurepip --upgrade
+
+
+3. : Install Jupyter Notebook
+pip install notebook
+
+4. : Launch Jupyter Notebook
+jupyter notebook
